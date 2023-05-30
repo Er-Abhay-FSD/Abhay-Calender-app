@@ -11,7 +11,7 @@ demo: darkmode / listview
 
 Contact: abhaysingh0836481@outlook.com
 
-[Live project link](https://chaseottofy.github.io/Abhay-Calender-app/)
+[Live project link](https://er-abhay-fsd.github.io/Abhay-Calender-app/)
 
 
 ## Documentation
