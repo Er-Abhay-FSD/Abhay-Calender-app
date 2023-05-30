@@ -6,7 +6,7 @@ demo: lightmode / weekview
 ![screen](screenshots/cal3.jpg)
 ![screen](screenshots/calenderk.jpg)
 
-demo: darkmode / monthview
+demo: darkmode / listview
 ![screen](screenshots/darkCalScreen.jpg)
 
 Contact: abhaysingh0836481@outlook.com
