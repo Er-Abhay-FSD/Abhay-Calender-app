@@ -111,7 +111,6 @@ At the moment, the application works using local storage but there are options t
   * Sidebar converts to fixed positioning under 840px and main content inherits the full page width.
   * Turn animations/transitions on and off.
   * animation times adjusted.
-  * More details provided for when events start/end/ended **(see Jan 20th journal).**
   * Sorting animations for month/week/day view events.
   * Dayview header details how many entries are starting/ending on that day and the timeframes of first - last entry.
   * Yearview will automatically scroll to current selected month if not in view.
