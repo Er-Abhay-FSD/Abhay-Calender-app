@@ -18,7 +18,13 @@ Contact: abhaysingh0836481@outlook.com
 
 **This Documentation is a work in progress.**
 
-I am currently working on a dev.to writeup that will follow more as a tutorial. If the feedback is positive, I will consider making a step by step tutorial in video format but it could potentially be around 10 hours long so I'm still gauging interest. Please let me know if you would be interested in this by contacting me directly via email (abhaysingh0836481@outlook.com).
+Hey everyone! 👋
+
+I am currently working on a Coding Ninja writeup that will follow more as a tutorial. If the feedback is positive, I will consider making a step-by-step tutorial in video format. 📹 This could potentially be around 10 hours long, so I'm still gauging interest.
+
+As a fresher MERN developer 🌱, I aim to make learning easier and more accessible. Your feedback is crucial! If you're interested, please let me know by contacting me directly via email: [abhaysingh0836481@outlook.com](mailto:abhaysingh0836481@outlook.com).
+
+Happy coding! 💻🚀
 
 ____________
 
